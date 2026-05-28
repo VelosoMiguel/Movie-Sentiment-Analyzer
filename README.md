@@ -7,7 +7,7 @@ A desktop NLP application that classifies movie reviews as positive or negative 
 
 ## 📸 Preview
 
-![Movie-Sentiment-Analyzer](screenshotMOVE.png)
+![Movie-Sentiment-Analyzer](screenshotMOVIE.png)
 
 ## 🚀 Features
 
