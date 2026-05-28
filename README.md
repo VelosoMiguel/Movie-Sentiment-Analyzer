@@ -1,13 +1,17 @@
-# Movie-Sentiment-Analyzer
-NLP sentiment analyzer for movie reviews using TF-IDF and an ensemble of Naive Bayes + Logistic Regression.
-
 # 🎬 Movie Sentiment Analyzer
 
 A desktop NLP application that classifies movie reviews as positive or negative using an ensemble machine learning model — built with Python, scikit-learn, and Tkinter.
 
 ## 📸 Preview
 
-![Movie-Sentiment-Analyzer](screenshotMOVIE.png)
+**Analyze Review**
+![Analyze Review](screenshotMOVIE.png)
+
+**Model Stats**
+![Model Stats](screenshot_stats.png)
+
+**Charts**
+![Charts](screenshot_charts.png)
 
 ## 🚀 Features
 
